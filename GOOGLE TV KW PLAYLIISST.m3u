@@ -10,6 +10,30 @@ Source :
 •kitkattv
 •etc
 
+
+
+
+
+
+#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAvF9VkjhfQE3aQaDOPLoXoub6Kk2mKxm9AwXOjLX_f0VY6e_4I5Ke9kQD&s=10" group-title="SPORTS DAZN",DAZN 1
+http://opplex.tv:8080/live/12345678910/12345678910/233072.ts
+ 
+#EXTINF:-1 tvg-id="DAZN 2" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=6vqvum5g288n1lgqwvq6vlim1_image-header_pRow_1720521637000&quality=70" group-title="SPORTS DAZN",DAZN 2
+http://opplex.tv:8080/live/12345678910/12345678910/233075.ts
+ 
+#EXTINF:-1 tvg-id="DAZN 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6r4rHHYhqEB5lUA3DlxmziWcOAbyI7whqiFdwJzs687qeEE_8_z8wZYe9&s=10" group-title="SPORTS DAZN",DAZN 3
+http://opplex.tv:8080/live/12345678910/12345678910/233078.ts
+ 
+ 
+#EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROOncumZrBSOZawWXtSLyUzAgoKml1DGW5YLV8EFe-VO1SKbR3DO75LYkN&s=10" group-title="SPORTS DAZN",DAZN 4
+http://opplex.tv:8080/live/12345678910/12345678910/233080.ts
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-EcpK2Wc-1syVIxFkgWCdV4D3q5pr2ytgDAeYjJ5le0-hLtBKJclhfNE&s=10" group-title="SPORTS DAZN",DAZN 5
+http://opplex.tv:8080/live/12345678910/12345678910/233082.ts  
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDFaRsuDqIngHvzh9EicdzxlDgpmz49slCo7PJcPT4vJK6F7k88BK_d6M1&s=10" group-title="SPORTS DAZN",DAZN 6
+http://opplex.tv:8080/live/12345678910/12345678910/233084.ts
+
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> INDONESIA TV <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<,
 
 
